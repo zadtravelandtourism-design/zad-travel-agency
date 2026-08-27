@@ -1,0 +1,8 @@
+{
+  "name": "Remix زاد للسفر والسياحة - Zad Travel and Tourism",
+  "description": "منظومة إدارة رحلات العمرة والحج لوكالة زاد للسفر والسياحة - Zad Travel and Tourism SaaS Dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
